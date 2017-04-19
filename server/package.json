@@ -16,6 +16,7 @@
     "express": "",
     "jsonwebtoken": "",
     "method-override": "",
+    "moment": "^2.18.1",
     "mongoose": "",
     "morgan": "",
     "nodemailer": "^4.0.1",
