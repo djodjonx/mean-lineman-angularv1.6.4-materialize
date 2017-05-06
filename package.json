@@ -1,9 +1,9 @@
 {
   "name": "mean-lineman",
-  "description": "Just another MEAN Stack",
+  "description": "Just another MEAN Stack with materialize",
   "version": "1.0.0",
   "private": true,
-  "author": "Jean-Baptiste Pasquier",
+  "author": "Jean-Baptiste Pasquier, Jonathan Moutier",
   "scripts": {
     "start": "lineman run",
     "test": "lineman spec-ci",

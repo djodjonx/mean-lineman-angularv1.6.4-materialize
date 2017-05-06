@@ -3,6 +3,8 @@
 # [MEAN](http://mean.io/) Starter with [Lineman](http://linemanjs.com/)
 
 ## Angular
+- AngularJS 1.6.4
+- Angular Material
 
 ### Requirements
 
@@ -14,7 +16,7 @@
 #### Installation
 
 ```bash
-git clone git@github.com:JbPasquier/mean-lineman.git
+git clone git@github.com:djodjonx/mean-lineman-angularv1.6.4.git
 cd mean-lineman
 npm install
 ```
@@ -33,4 +35,4 @@ npm run production
 
 [![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)
 
-# laloupe-0217-king-pong
+# Materialize and Angular Material
